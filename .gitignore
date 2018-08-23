@@ -26,3 +26,5 @@ upload
 target
 tale.sql
 *.md
+
+*.class
